@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
       //Remove a faixa de DEBUG.
       debugShowCheckedModeBanner: false,
       // Titulo da Aplicação
-      title: 'MeuPerfil',
+      title: 'filmes cult',
 
       // Configuração do thema visual
       theme: ThemeData(
